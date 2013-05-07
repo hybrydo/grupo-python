@@ -3,6 +3,9 @@
 #!Python 2.7
 #!Autor: Ibán Sánchez
 
+
+#!Prueba github, agregando contenido al archivo.
+
 inicio_num = input ("introduce un numero:")
 
 for z in range(0,9):
