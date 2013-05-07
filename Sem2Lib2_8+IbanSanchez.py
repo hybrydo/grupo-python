@@ -1,5 +1,7 @@
 #!/usr/bin/python
 #!coding: utf-8
+#!Python 2.7
+#!Autor: Ibán Sánchez
 
 inicio_num = input ("introduce un numero:")
 
